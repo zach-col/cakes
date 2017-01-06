@@ -32,3 +32,36 @@ a:hover{
     margin-right: 25px;
   }
 }
+/* brand logo */
+.navbar-default .navbar-brand {
+  color: #ff4e6e;
+}
+/* brand logo hover */
+.navbar-default .navbar-brand:focus, .navbar-default .navbar-brand:hover {
+  color: #ffa5b5;
+}
+/* mobile button border */
+.navbar-default .navbar-toggle {
+  border-color: #ff4e6e;
+}
+/* mobile buton face when active */
+.navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover {
+  background-color: #ff4e6e;
+}
+/* mobile button icon bar */
+.navbar-default .navbar-toggle .icon-bar {
+  background-color: #ff4e6e;
+}
+/* bootstrap icon bar when open */
+.navbar-default .navbar-toggle:hover .icon-bar {
+  background-color: white;
+}
+/* active link when open */
+.navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:focus, .navbar-default .navbar-nav>.active>a:hover {
+  color: #ff4e6e;
+  background-color: #ffdbdb;
+}
+/* link when open */
+.navbar-default .navbar-nav>li>a {
+  color: #ff4e6e;
+}
