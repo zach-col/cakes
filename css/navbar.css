@@ -1,0 +1,34 @@
+body{
+  position: relative;
+  margin-top: 50px;
+}
+.navigation{
+  text-align: center;
+}
+a{
+  margin-left: 100px;
+  margin-right: 100px;
+  color: #ff4e6e;
+}
+a:hover{
+  color: #ffa5b5;
+}
+
+@media only screen and (max-width:1329px){
+  a{
+    margin-left: 75px;
+    margin-right: 75px;
+  }
+}
+@media only screen and (max-width:1130px){
+  a{
+    margin-left: 50px;
+    margin-right: 50px;
+  }
+}
+@media only screen and (max-width:929px){
+  a{
+    margin-left: 25px;
+    margin-right: 25px;
+  }
+}
