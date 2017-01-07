@@ -1,0 +1,14 @@
+.personImg{
+  radius: 50%;
+  height: 200px;
+  width: 200px;
+  margin: 0 auto;
+}
+.personName{
+  text-align:center;
+  color: #ff4e6e;
+}
+.personInfo{
+  text-align: center;
+  color: #ff4e6e;
+}
