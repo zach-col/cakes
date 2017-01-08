@@ -1,14 +1,24 @@
 .personImg{
-  radius: 50%;
+  border-radius: 50%;
   height: 200px;
   width: 200px;
   margin: 0 auto;
 }
 .personName{
   text-align:center;
-  color: #ff4e6e;
+  color: white;
+  padding-left: 10px;
+  padding-right: 10px;
 }
 .personInfo{
   text-align: center;
-  color: #ff4e6e;
+  color: white;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+.personArea{
+  background-color: #ff4e6e;
+  padding-top: 24px;
+  padding-bottom: 10px;
+  margin-top: 20px;
 }
