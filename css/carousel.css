@@ -54,5 +54,12 @@ p{
 }
 .carousel-control .glyphicon-chevron-left, .carousel-control .icon-prev {
   left: 50%;
-  margin-left: -25px;
+  margin-left: -38px;
+}
+.carousel-control .glyphicon-chevron-right, .carousel-control .icon-next {
+  right: 50%;
+  margin-right: -38px;
+}
+.carousel-caption {
+  bottom: 120px;
 }
