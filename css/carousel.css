@@ -25,6 +25,7 @@
   min-width: 100%;
   height: 500px;
 }
+
 .slideShowRef{
   color: #fff;
   background-color: #ff4e6e;
@@ -50,4 +51,8 @@ h1{
 }
 p{
   font-weight: bold;
+}
+.carousel-control .glyphicon-chevron-left, .carousel-control .icon-prev {
+  left: 50%;
+  margin-left: -25px;
 }
