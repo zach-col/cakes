@@ -1,7 +1,17 @@
 .mainImage{
-  height: 400px;
-  width: 400px;
+  height: 300px;
+  width: 300px;
   margin: 0 auto;
+}
+.infoText{
+  color: #ff4e6e;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+@media only screen and (max-width:767px){
+  .infoText{
+    text-align: center;
+  }
 }
 .personImg{
   border-radius: 50%;
@@ -18,11 +28,6 @@
 .personInfo{
   text-align: center;
   color: white;
-  padding-left: 10px;
-  padding-right: 10px;
-}
-.infoText{
-  color: #ff4e6e;
   padding-left: 10px;
   padding-right: 10px;
 }
