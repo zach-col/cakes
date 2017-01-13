@@ -28,6 +28,7 @@
   height: 200px;
   width: 200px;
   margin: 0 auto;
+  margin-bottom: 14px;
 }
 .personName{
   text-align:center;
@@ -40,6 +41,7 @@
   color: white;
   padding-left: 10px;
   padding-right: 10px;
+  margin-top: 7px;
 }
 .personArea{
   background-color: #ff4e6e;
