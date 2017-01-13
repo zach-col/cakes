@@ -1,6 +1,7 @@
 body{
   position: relative;
   margin-top: 10px;
+  margin-bottom: 20px;
 }
 /* The Overlay (background) */
 .overlay {
@@ -60,7 +61,7 @@ body{
   float: right;
   top: -59px;
   height: 78px;
-  margin-bottom: -54px;
+  margin-bottom: -134px;
 }
 .icon-bar{
   width: 35px;
