@@ -12,25 +12,22 @@
   color: black;
   text-align: center;
   padding-top: 5px;
-  margin-bottom: 74px;
+  margin-bottom: 18px;
 }
-.foodPrice{
-  height: 100px;
-  width: 100px;
-  border-radius: 50%;
-  color: #ff4e6e;
-}
-.foodPrice {
-  height: 100px;
-  width: 100px;
+.foodHolder {
+  height: 40px;
+  width: 40px;
   border-radius: 50%;
   color: white;
-  padding-top: 10px;
-  padding-bottom: 10px;
-  padding-left: 5px;
-  padding-right: 5px;
+  padding-top: 1px;
+  padding-bottom: 4px;
+  padding-left: 1px;
   background-color: #ff4e6e;
-  margin-left: 11px;
+  margin: 0 auto;
+  margin-bottom: 43px;
+}
+.foodPrice{
+  text-align: center;
 }
 #space{
   height: 40px;
