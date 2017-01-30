@@ -9,6 +9,23 @@
   <link rel="stylesheet" href="../css/bootstrap.min.css">
   <!-- navbar css -->
   <link rel="stylesheet" href="../css/navbar.css">
+  <!-- custom css -->
+  <link rel="stylesheet" href"./css/contact.css">
+<style>
+#header{
+  text-align: center;
+  color: black;
+}
+a{
+  color: black;
+  text-decoration: underline;
+}
+#email, #home, #phone{
+  text-align: center;
+  padding-top: 35px;
+  color: pink;
+}
+</style>
 </head>
 <body>
 
@@ -50,6 +67,43 @@
 </div>
 
 </div><!-- end of container fluid -->
+
+<div class="container">
+  <h1 id="header">Contact Info</h1>
+  <div class="row">
+
+    <div class="col-lg-12">
+      <h3 id="phone">
+        <span class="glyphicon glyphicon-earphone"></span>
+        <a href="tel:+1-555-555-1212">
+          555-555-1212
+        </a>
+      </h3>
+    </div>
+
+    <div class="col-lg-12">
+      <h3 id="email">
+        <span class="glyphicon glyphicon-envelope"></span>
+        <a href="mailto:someone@example.com?Subject=Hello%20" target="_top">
+          Mas-Bakery@example.com
+        </a>
+      </h3>
+    </div>
+
+    <div class="col-lg-12">
+      <h3 id="home">
+        <span class="glyphicon glyphicon-home"></span>
+        <a href="https://www.google.com/maps/place/Austin,+TX/@30.3080553,-98.0335986,10z/data=!3m1!4b1!4m5!3m4!1s0x8644b599a0cc032f:0x5d9b464bd469d57a!8m2!3d30.267153!4d-97.7430608">
+          7711 Austin rd
+        </a>
+      </h3>
+    </div>
+
+  </div>
+</div>
+
+
+
 
 
   <script src="../js/jquery.js"></script>
