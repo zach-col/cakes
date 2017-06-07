@@ -6,7 +6,6 @@
   position: relative;
   height: 300px;
   padding: 0px;
-  background: black;
   padding-top: 7px;
   padding-left: 10px;
   padding-right: 10px;
@@ -19,7 +18,7 @@
 }
 .review{
   text-align: center;
-  color: white;
+  color: grey;
 }
 .reviewPerson{
   border-radius: 50%;
@@ -30,7 +29,7 @@
   float: left;
 }
 .reviewName{
-  color: black;
+  color: #ff4e6e;
   float: left;
   margin-right: 47px;
   padding-top: 65px;
