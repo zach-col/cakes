@@ -2,14 +2,13 @@
   color: #ff4e6e;
   text-align: center;
   padding-bottom: 37px;
-  text-decoration: underline;
 }
 .foodItems{
-  color: #ff4e6e;
+  color: black;
   text-align: center;
 }
 .foodInfo{
-  color: black;
+  color: grey;
   text-align: center;
   padding-top: 5px;
   margin-bottom: 18px;
