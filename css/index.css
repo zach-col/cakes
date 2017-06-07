@@ -10,7 +10,7 @@
   padding-right: 10px;
 }
 .infoText{
-  color: #ff4e6e;
+  color: black;
   padding-left: 10px;
   padding-right: 10px;
   margin-top: 20px;
@@ -38,19 +38,18 @@
 }
 .personName{
   text-align:center;
-  color: white;
+  color: #ff4e6e;
   padding-left: 10px;
   padding-right: 10px;
 }
 .personInfo{
   text-align: center;
-  color: white;
+  color: black;
   padding-left: 10px;
   padding-right: 10px;
   margin-top: 7px;
 }
 .personArea{
-  background-color: #ff4e6e;
   padding-top: 24px;
   padding-bottom: 10px;
   margin-top: 20px;

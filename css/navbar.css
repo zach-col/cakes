@@ -71,7 +71,7 @@ body{
 .icon-bar{
   width: 35px;
   height: 5px;
-  background-color: #ff4e6e;
+  background-color: black;
   margin: 6px 0;
 }
 @media screen and (max-height: 378px) {
